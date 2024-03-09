@@ -1,4 +1,5 @@
-﻿# whatsappChatAnalyzer-streamlit
+https://whatsappchatanalyzer-app-j7ddnot4ohfyqm8v2awyfx.streamlit.app/
+ # whatsappChatAnalyzer-streamlit
 
  can do:
         >individual chat analysis
